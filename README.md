@@ -49,7 +49,7 @@
 <div align="center">
   <p align="center">
     <a href="https://github.com/ghettocole?tab=repositories">
-      <img src="https://skillicons.dev/icons?i=cs,cpp,java,py,css,html,js" />
+      <img src="https://skillicons.dev/icons?i=cs,cpp,java,py,css,html,js,react,flutter,go&perline=5" />
     </a>
   </p>
 </div>
@@ -61,7 +61,19 @@
 <div align="center">
   <p align="center">
     <a href="https://github.com/ghettocole?tab=repositories">
-      <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,idea" /> 
+      <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,idea,docker,pycharm,vim,maven,bash,figma&perline=5" /> 
+    </a>
+  </p>
+</div>
+<div align="center">
+  <p align="center">
+    <img src="https://img.shields.io/badge/Frameworks:-orange" />
+  </p>
+</div>
+<div align="center">
+  <p align="center">
+    <a href="https://github.com/ghettocole?tab=repositories">
+      <img src="https://skillicons.dev/icons?i=django,flask,flutter,selenium,tensorflow" /> 
     </a>
   </p>
 </div>
