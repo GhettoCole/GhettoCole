@@ -49,7 +49,7 @@
 <div align="center">
   <p align="center">
     <a href="https://github.com/ghettocole?tab=repositories">
-      <img src="https://skillicons.dev/icons?i=cs,cpp,java,py,css,html,js,react,flutter,go&perline=5" />
+      <img src="https://skillicons.dev/icons?i=cs,cpp,java,py,css,html,js,kotlin,dart,go&perline=5" />
     </a>
   </p>
 </div>
