@@ -7,7 +7,7 @@
   <em>🧠 Proud WeThinkCode Student | 🖥️ Self-taught Programmer | 💡 Eager Learner</em>
 </p>
 <p align="center">
-  Hey there! I'm Given Lepita, a passionate software developer and a self-taught programmer. I'm constantly seeking opportunities to improve my skills and broaden my knowledge in the world of programming. My journey has led me through various fields, including Systems Architecture, Computer Networking, Physics, and Mathematics, making me a well-rounded problem solver. My love for programming knows no bounds, and I'm proficient in an array of languages, including C++, Java, Python, JavaScript, HTML, CSS, and SQL.
+  Hey there! I'm Given Lepita, a passionate full-stack software developer and a self-taught programmer. I'm constantly seeking opportunities to improve my skills and broaden my knowledge in the world of programming. My journey has led me through various fields, including Systems Architecture, Computer Networking, Physics, and Mathematics, making me a well-rounded problem solver. My love for programming knows no bounds, and I'm proficient in an array of languages, including C++, Java, Python, JavaScript, HTML, CSS, and SQL.
 </p>
 <p align="center">
   My interests are diverse, ranging from the exciting world of Game Development to the cutting-edge realm of Machine Learning. However, above all, I cherish intellectual rigor, and that curiosity drives me to explore and learn about all kinds of fascinating subjects.
