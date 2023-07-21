@@ -61,7 +61,7 @@
 <div align="center">
   <p align="center">
     <a href="https://github.com/ghettocole?tab=repositories">
-      <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,idea,docker,pycharm,vim,maven,bash,figma&perline=3" /> 
+      <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,idea,docker,pycharm,vim,maven,bash,figma,androidstudio&perline=5" /> 
     </a>
   </p>
 </div>
