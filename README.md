@@ -55,9 +55,6 @@
       <img src="https://skillicons.dev/icons?i=cs,cpp,java,py,css,html,js,kotlin,dart,go&perline=5" />
     </a>
   </p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Ghettocole&count_private=true&theme=midnight-purple&show_icons=true" />
-</a>
 </div>
 <div align="center">
   <p align="center">
