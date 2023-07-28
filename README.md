@@ -28,9 +28,6 @@
   <a href="https://github.com/ghettocole">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghettocole&theme=rising-sun&hide_border=true&exclude_days=Sun" />
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghettocole&layout=compact&langs_count=8&theme=midnight-purple&card_width=320" />
-</a>
 </div>
 <div align="center">
   <a href="https://github.com/ghettocole">
